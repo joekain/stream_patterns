@@ -1,2 +1,0 @@
-defmodule StreamPatterns do
-end
