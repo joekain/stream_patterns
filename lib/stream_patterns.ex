@@ -1,0 +1,2 @@
+defmodule StreamPatterns do
+end

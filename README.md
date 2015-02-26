@@ -1,0 +1,4 @@
+StreamPatterns
+==============
+
+** TODO: Add description **
